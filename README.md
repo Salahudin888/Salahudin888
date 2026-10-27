@@ -33,7 +33,7 @@ An electronics e-commerce application where users can browse products, manage th
 
 **Tech Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-🔗 [Explore my repositories](https://github.com/Salahudin888?tab=electrohub)
+🔗 [Explore my repositories](https://github.com/Salahudin888?tab=repositories)
 
 ### ⚙️ Mechatronics Department Website
 
@@ -55,7 +55,7 @@ My first GitHub project, built to practice user management and database operatio
 - Delete user records
 - Store and manage user data
 
-🔗 [Explore my repositories](https://github.com/Salahudin888?tab=user-register)
+🔗 [Explore my repositories](https://github.com/Salahudin888?tab=repositories)
 
 ---
 
